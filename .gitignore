@@ -1,2 +1,4 @@
 .env
 .venv_slr
+.vscode
+__pycache__/
